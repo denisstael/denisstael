@@ -1,10 +1,6 @@
-👋 Hello there!
----
-#### My name is Denis Stael
+**Software Engineer**, currently working with **Ruby on Rails**, **PostgreSQL**, **Redis**, and **AWS** integrations.
 
-I'm a **Software Engineer**, currently working with **Ruby on Rails**, **PostgreSQL**, **Redis**, and **AWS** integrations.
-
-I have experience in **web and desktop development**, with some knowledge of **mobile development**.  
+Experience in **web and desktop development**, with some knowledge of **mobile development**.  
 Other languages and frameworks I have worked with include **Java**, **Spring Framework**, **React**, **React Native**, and **JavaScript**.
 
 Here in GitHub you can find some of my personal projects.
